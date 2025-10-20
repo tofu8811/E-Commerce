@@ -9,6 +9,11 @@ use App\Http\Controllers\DanhMucController;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 use App\Http\Controllers\AuthController;
+
+
+
+
+
 use Yajra\DataTables\Facades\DataTables;
 
 // Route::get('/', function () {
